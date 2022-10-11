@@ -1,0 +1,16 @@
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\bin\Debug\net5.0\Jokenpo.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\bin\Debug\net5.0\Jokenpo.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\bin\Debug\net5.0\Jokenpo.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\bin\Debug\net5.0\Jokenpo.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\bin\Debug\net5.0\Jokenpo.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\bin\Debug\net5.0\ref\Jokenpo.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\bin\Debug\net5.0\Jokenpo.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\obj\Debug\net5.0\Jokenpo.csproj.AssemblyReference.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\obj\Debug\net5.0\Jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\obj\Debug\net5.0\Jokenpo.AssemblyInfoInputs.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\obj\Debug\net5.0\Jokenpo.AssemblyInfo.cs
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\obj\Debug\net5.0\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\obj\Debug\net5.0\Jokenpo.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\obj\Debug\net5.0\ref\Jokenpo.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\obj\Debug\net5.0\Jokenpo.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\TDD\AtividadeTDD\Jokenpo\obj\Debug\net5.0\Jokenpo.genruntimeconfig.cache
